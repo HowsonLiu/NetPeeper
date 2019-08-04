@@ -4,7 +4,7 @@ My email reminder and spider framework 😎
 - install python3, pip3 and git
 - git clone project
 ```
-git clone git@github.com:HowsonLiu/NetPeeper.git
+git clone https://github.com/HowsonLiu/NetPeeper.git
 ```
 - install virtualenv
 ```
